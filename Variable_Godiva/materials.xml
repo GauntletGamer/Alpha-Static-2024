@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="9" name="Fuel(0.001996007984031936)-Moderator(0.998003992015968)">
+    <density units="g/cm3" value="18.7398"/>
+    <nuclide ao="0.0018716467065868262" name="U235"/>
+    <nuclide ao="0.00010389820359281437" name="U238"/>
+    <nuclide ao="2.0463073852295407e-05" name="U234"/>
+    <nuclide ao="0.665232375249501" name="H1"/>
+    <nuclide ao="0.00010361942781104458" name="H2"/>
+    <nuclide ao="0.3318764471057884" name="O16"/>
+    <nuclide ao="0.00012608117099135066" name="O17"/>
+    <nuclide ao="0.0006654690618762475" name="O18"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+</materials>
