@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="2" name="U_H2O_Mix">
+    <density units="g/cm3" value="1.051962836953677"/>
+    <nuclide ao="0.001403212001203389" name="U235"/>
+    <nuclide ao="0.33207357560047746" name="O16"/>
+    <nuclide ao="0.00012615606088384797" name="O17"/>
+    <nuclide ao="0.0006658643382375976" name="O18"/>
+    <nuclide ao="0.6656275110233557" name="H1"/>
+    <nuclide ao="0.00010368097584195505" name="H2"/>
+  </material>
+  <material id="3" name="Water">
+    <density units="g/cm3" value="1.0"/>
+    <nuclide ao="0.9976206" name="O16"/>
+    <nuclide ao="0.000379" name="O17"/>
+    <nuclide ao="0.0020004" name="O18"/>
+    <nuclide ao="1.99968852" name="H1"/>
+    <nuclide ao="0.00031148" name="H2"/>
+  </material>
+</materials>
